@@ -1,0 +1,6 @@
+task: "Describe the main objective of the analysis."
+questions:
+  - id: Q1
+    question: "First question placeholder"
+  - id: Q2
+    question: "Second question placeholder"
