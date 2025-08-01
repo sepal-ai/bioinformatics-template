@@ -15,7 +15,7 @@ This task is based on ...
 ## 4. How the workflow works
 
 ... description of the files within /workflow directory 
----
+
 
 ### **Step 1 –...**
 
@@ -26,7 +26,7 @@ This task is based on ...
 **Command:** `...`
 
 
----
+
 ### **Step 2 –...**
 
 **Purpose:** ... 
@@ -36,7 +36,7 @@ This task is based on ...
 **Command:** `...`
 
 
----
+
 ### **Step X –...**
 
 **Purpose:** ... 
